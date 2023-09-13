@@ -13,10 +13,11 @@
 
 - [Owasp Cheat Sheet Series by mansoorr123](https://github.com/OWASP/CheatSheetSeries/tree/master/cheatsheets)
 
+---
 
 **from other resources links**
 
-*[Cheatography](cheatography.com)*
+*[Cheatography](https://cheatography.com)*
 
 - [Ethical Hacking by prolixgal](https://cheatography.com/prolixgal/cheat-sheets/ethical-hacking/)
 - [Web Application Hacking by fahad](https://cheatography.com/fahad/cheat-sheets/web-application-hacking/)
@@ -25,3 +26,9 @@
 - [ncat by flacman](https://cheatography.com/flacman/cheat-sheets/ncat-cheat-sheet/)
 - [wifi-hacking by astronaut3301](https://cheatography.com/astronaut3301/cheat-sheets/wifi-hacking/)
 - [meatasploit by alexismon](https://cheatography.com/alexismon/cheat-sheets/metasploit-cheat-sheet/)
+
+---
+
+**[Roppers](https://www.roppers.org/)**
+
+### Encoding and Classic Encryption
