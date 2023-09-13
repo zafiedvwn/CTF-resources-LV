@@ -32,3 +32,35 @@
 **[Roppers](https://www.roppers.org/)**
 
 ### Encoding and Classic Encryption
+
+- [ASCII](https://catonmat.net/ascii-cheat-sheet)
+- [CyberChef](https://gchq.github.io/CyberChef/)
+- [Index of Coincidence Converter](https://www.dcode.fr/index-coincidence)
+- [Caesar Cipher Converter](https://www.dcode.fr/caesar-cipher)
+- [Mono-alphabetic Substitution Converter](https://www.dcode.fr/monoalphabetic-substitution)
+- [Frequency Analysis](https://www.dcode.fr/frequency-analysis)
+- [Vignere Cipher Decoder and Solver](https://www.boxentriq.com/code-breaking/vigenere-cipher)
+- [Vignere Cipher](https://www.dcode.fr/vigenere-cipher)
+
+### File Forensics
+
+- [RFC2083](https://tools.ietf.org/html/rfc2083)
+- [xxd command](https://linuxhandbook.com/xxd-command/)
+- [bless hexeditor](https://miloserdov.org/?p=5666)
+- [base64 in cmd](https://www.serverlab.ca/tutorials/linux/administration-linux/how-to-base64-encode-and-decode-from-command-line/)
+- [create jar file](https://github.com/macagua/example.java.helloworld)
+- [pngcheck](http://www.libpng.org/pub/png/apps/pngcheck.html) - verifies integrity of png file
+- [exiftool](https://exiftool.org) - checks the meta information
+- [scalpel file recovery tool](https://www.kali.org/tools/scalpel/)
+- [Steganography Checklist](https://stegonline.georgeom.net/checklist)
+- [Stegsolve](https://github.com/eugenekolo/sec-tools/tree/master/stego/stegsolve/stegsolve)
+- [steghide](https://steghide.sourceforge.net/documentation.php)
+- [foremost carving tool](https://linuxconfig.org/how-to-recover-deleted-files-with-foremost-on-linux)
+
+- [binwalk tool](https://github.com/briankip/binwalk-tutorial)
+- [PDF Tools](https://blog.didierstevens.com/programs/pdf-tools/)
+- [pdf-parser](https://www.aldeid.com/wiki/Pdf-parser)
+- [tail command](https://www.howtogeek.com/481766/how-to-use-the-tail-command-on-linux/) - shows data from the end of a file
+
+- [7Zip](https://itsfoss.com/use-7zip-ubuntu-linux/)
+- [P7zip](https://www.kali.org/tools/p7zip/)
