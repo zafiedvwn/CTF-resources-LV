@@ -60,7 +60,9 @@
 - [binwalk tool](https://github.com/briankip/binwalk-tutorial)
 - [PDF Tools](https://blog.didierstevens.com/programs/pdf-tools/)
 - [pdf-parser](https://www.aldeid.com/wiki/Pdf-parser)
+- [QPDF](https://github.com/qpdf/qpdf)
 - [tail command](https://www.howtogeek.com/481766/how-to-use-the-tail-command-on-linux/) - shows data from the end of a file
-
-- [7Zip](https://itsfoss.com/use-7zip-ubuntu-linux/)
 - [P7zip](https://www.kali.org/tools/p7zip/)
+- [string command](https://www.howtogeek.com/427805/how-to-use-the-strings-command-on-linux/)
+- [Free File Camouflage](https://www.addictivetips.com/windows-tips/hide-password-protect-your-files-in-images-with-free-file-camouflage/#:~:text=Free%20File%20Camouflage%20has%20two%20basic%20tabs%3A%20Camouflage,want%20to%20hide.%20Then%2C%20choose%20a%20JPEG%20image.) - hide and password protect files
+- 
