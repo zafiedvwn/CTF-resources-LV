@@ -41,6 +41,7 @@
 - [Frequency Analysis](https://www.dcode.fr/frequency-analysis)
 - [Vignere Cipher Decoder and Solver](https://www.boxentriq.com/code-breaking/vigenere-cipher)
 - [Vignere Cipher](https://www.dcode.fr/vigenere-cipher)
+- [RapidTables](https://www.rapidtables.com/convert/number/ascii-hex-bin-dec-converter.html)
 
 ### File Forensics
 
@@ -65,4 +66,6 @@
 - [P7zip](https://www.kali.org/tools/p7zip/)
 - [string command](https://www.howtogeek.com/427805/how-to-use-the-strings-command-on-linux/)
 - [Free File Camouflage](https://www.addictivetips.com/windows-tips/hide-password-protect-your-files-in-images-with-free-file-camouflage/#:~:text=Free%20File%20Camouflage%20has%20two%20basic%20tabs%3A%20Camouflage,want%20to%20hide.%20Then%2C%20choose%20a%20JPEG%20image.) - hide and password protect files
-- 
+
+### Miscellaneous
+
